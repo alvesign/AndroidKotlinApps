@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         "Maior que a tristeza de não haver vencido é a vergonha de não ter lutado!",
         "É melhor conquistar a si mesmo do que vencer mil batalhas.",
         "Enquanto houver vontade de lutar haverá esperança de vencer."
+
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
